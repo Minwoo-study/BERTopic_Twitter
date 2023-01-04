@@ -2,7 +2,7 @@
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 
-This project is a English `BERTopic` by MaartenGr(https://github.com/MaartenGr/BERTopic.git). 
+This project is a English `BERTopic` by MaartenGr(https://github.com/MaartenGr/BERTopic.git).   
 Topic modeling analysis about `Twitter` data.
 
 Example data was collected from Twitter API, which contains the hashtag #britishmuseum.
@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 * You have installed the `Python` over Python 3.7.
 * install the BERTopic by running the code below.
 ```
-!pip install bERTopic
+!pip install bertopic
 ```
 ## Using TripAdvisor Review Crawling
 
